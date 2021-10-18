@@ -14,6 +14,15 @@ body{
     margin: 0 auto;
 }
 
+.heroBG{
+    margin-top: 30px;
+}
+
 .article1{
     margin: 20px 0 ;
+}
+
+.second-img{
+    width: 300px;
+    height: auto;
 }
